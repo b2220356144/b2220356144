@@ -1,4 +1,4 @@
-CS Major
+CS Major at Hacettepe University / Turkey
 
 <!---
 b2220356144/b2220356144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
